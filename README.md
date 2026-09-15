@@ -21,7 +21,7 @@ The system uses 4 AI agents that work together to plan a complete trip automatic
 - LangGraph
 - LangChain
 - Groq
-- Llama 3.3 70B
+- OpenAI/GPT-OSS-120B
 - PostgreSQL
 - Streamlit
 - Tavily API
